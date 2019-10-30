@@ -6920,5 +6920,15 @@
     <Type>Script</Type>
     <Description>Auto-splitting on pre-rendered cutscenes and load zones is available (by JohnStephenEvil)</Description>
   </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>ShadowFlare</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/BurrowBird/Splitters/master/SF_Auto_Splitter.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Autosplitting and timer auto start available. (By BurrowBrird)</Description>
+  </AutoSplitter>
 </AutoSplitters>
 
